@@ -39,9 +39,8 @@ The dashboard helps in identifying key trends, top-performing categories, and ov
 
 ---
 
-## DATASET
 
-Dashboard Interaction <a href="">View Dashboard</a>
+Dashboard Interaction <a href="https://github.com/Kanishk-Kaustabh/Adventure_Works_Tableau_Dashboard/blob/main/Tableau_Dashboard.png">View Dashboard</a>
 
 
 
